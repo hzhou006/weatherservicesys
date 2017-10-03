@@ -2,7 +2,7 @@
 
 Description:
 
-    1. I have created a repository on github to share my exercise. (link: )
+    1. I have created a repository on github to share my exercise.
     2. Base mapping: http://localhost:8080/weatherData
     3. Add a endpoint that responds to GET /fetchAllCitys. We can fetch all city name.
     4. Add an endpoint that responds to GET /fetchByName. We can fetch the weather(Fahreheit and Celsius) data by a city name
