@@ -10,7 +10,7 @@ Description:
     6. Add an endpoint that responds to GET / calculateMeanTempPerWeek. This endpoint fetch the mean min and max temperature(Fahreheit and Celsius) for each week between 2016-09 and 2017-09
     7. Add an endpoint that responds to GET /calculateMeanTempPerMonth. This endpoint fetch the mean min and max temperature(Fahreheit and Celsius) for each Month between 2016-09 and 2017-09
     8. I encapsulate all API responses to include all weather data by using swagger.
-Using Method: http://localhost:8080/swagger-ui.html#/    
+       Using Method: http://localhost:8080/swagger-ui.html#/    
 
 Running Environment:
 
